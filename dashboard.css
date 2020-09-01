@@ -1,0 +1,212 @@
+.sideBar {
+  background-color: #e9e9ef;
+  padding-bottom: 500px;
+  padding-left: 20px;
+}
+
+.top-logo {
+  height: 40px;
+  width: 50px;
+  border-radius: 50px;
+}
+
+.moka {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 20px;
+}
+
+.moka-name {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.nav > li > a {
+  color: #2d2a2a;
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  width: 150px;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: fff;
+  background-color: #337ab7;
+}
+
+.main-area {
+  background-color: #f8f8fd;
+}
+.profile-info-bar {
+  background-color: #fff;
+  padding: 0px 25px;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+}
+
+.profile-name {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.followers-following-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.follow-info {
+  text-align: center;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid rgb(241, 241, 241);
+}
+
+.follow-button {
+  background-color: rgb(218, 96, 116);
+  color: white;
+  margin-left: 60px;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.profile-row-1 {
+  background-color: greenyellow;
+}
+
+.profile-row-2 {
+  background-color: rgb(182, 21, 10);
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-content: space-between;
+}
+
+.notification {
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+.profile-pic {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  box-shadow: 30px;
+}
+
+.profile-pic-2 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  box-shadow: 30px;
+}
+
+.social-media-logos {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+.logo-pic {
+  background-color: white;
+  height: 25px;
+  width: 25px;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.list-content {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+}
+
+.list-pic {
+  height: 30px;
+  width: 40px;
+  border-radius: 50px;
+  background-image: linear-gradient(rgb(141, 91, 250), rgb(185, 147, 250));
+  margin: 0px 5px;
+  align-items: center;
+  justify-content: center;
+}
+
+.break-line {
+  padding-bottom: 50px;
+  background-color: #f8f8fd;
+}
+
+.logo-pc {
+  align-content: center;
+}
+
+.profileinfo {
+  padding-top: 20px;
+}
+
+.profilepic-info {
+  padding-top: 10px;
+  margin-left: -20px;
+}
+
+.comment-section {
+  margin-right: -15px;
+  margin-left: -15px;
+  border: 15px solid #f8f8fd;
+  padding: 20px 30px;
+}
+
+.input-area {
+  margin-left: 3px;
+  margin-bottom: 30px;
+  padding-left: 10px;
+  background-color: #fff;
+}
+.input-text {
+  width: 550px;
+  height: 60px;
+  padding: 10px;
+  margin: 20px 20px 20px 0px;
+}
+
+.post-section {
+  padding-top: 10px;
+  background-color: #fff;
+}
+
+.post {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
+
+.post-pic {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.post-comment {
+  border: 1px solid rgb(241, 241, 241);
+  padding: 10px 20px;
+}
+
+.mail-images {
+  display: flex;
+  margin: 20px 0px;
+}
+
+.mail-pic {
+  height: 60px;
+  width: 60px;
+  box-shadow: 30px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
